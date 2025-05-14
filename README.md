@@ -1,2 +1,2 @@
 # tic-tac-toe2
-author-shounak kundu
+author-shounak kundu(me)
